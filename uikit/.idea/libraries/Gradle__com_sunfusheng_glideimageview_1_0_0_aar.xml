@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sunfusheng:glideimageview:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/glideimageview-1.0.0.aar/5b0e09789077116e6fadce0ad56e9437/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/glideimageview-1.0.0.aar/5b0e09789077116e6fadce0ad56e9437/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/glideimageview-1.0.0.aar/5b0e09789077116e6fadce0ad56e9437/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.sunfusheng/glideimageview/1.0.0/a116ff3e6a56ea27ec33813baf24563fcd086966/glideimageview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaeger.recyclerviewdivider:library:1.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/646ab83144fce95c8296e98961505714/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/646ab83144fce95c8296e98961505714/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/646ab83144fce95c8296e98961505714/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.jaeger.recyclerviewdivider/library/1.0.1/c966580006d0c4bae7eb4853f52e7357ecfe4dbc/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

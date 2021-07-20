@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.limedroid:XRichText:v1.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/XRichText-v1.0.0.aar/571f26dce13d7e308ccbf25d497d382b/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/XRichText-v1.0.0.aar/571f26dce13d7e308ccbf25d497d382b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.github.limedroid/XRichText/v1.0.0/bb8631c44037d00915b51a9a06d53741a01faa3d/XRichText-v1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

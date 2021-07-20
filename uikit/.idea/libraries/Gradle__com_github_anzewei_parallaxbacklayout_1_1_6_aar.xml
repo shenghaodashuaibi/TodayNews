@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.anzewei:parallaxbacklayout:1.1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/parallaxbacklayout-1.1.6.aar/fbfcbbeb9a6338774ed7adce7bffbe8a/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/parallaxbacklayout-1.1.6.aar/fbfcbbeb9a6338774ed7adce7bffbe8a/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/parallaxbacklayout-1.1.6.aar/fbfcbbeb9a6338774ed7adce7bffbe8a/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.github.anzewei/parallaxbacklayout/1.1.6/6862e3eb7b46748cf0ac94361fac548eceb58757/parallaxbacklayout-1.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.github.anzewei/parallaxbacklayout/1.1.6/503bd62750e036389e3a9fd343b72b473d438cdc/parallaxbacklayout-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

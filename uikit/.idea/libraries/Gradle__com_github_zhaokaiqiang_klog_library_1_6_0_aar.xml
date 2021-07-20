@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.zhaokaiqiang.klog:library:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/library-1.6.0.aar/3b443b335ea0c7b65cfd08b9a5d95fc1/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/library-1.6.0.aar/3b443b335ea0c7b65cfd08b9a5d95fc1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.github.zhaokaiqiang.klog/library/1.6.0/48b4bbc189e6f3c11e70e9ea760d1be8da90007e/library-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/com.github.zhaokaiqiang.klog/library/1.6.0/18d60bc9b75c5a9e1e7133a3ac6a91087f07203d/library-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

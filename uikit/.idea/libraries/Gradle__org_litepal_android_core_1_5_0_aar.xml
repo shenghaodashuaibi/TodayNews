@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.litepal.android:core:1.5.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/895546d0465713ae8a57000d3f0f98aa/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/895546d0465713ae8a57000d3f0f98aa/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/org.litepal.android/core/1.5.0/33e7567fdf41ec8e86c47e2936532ac8b28adad0/core-1.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/Gradle/caches/modules-2/files-2.1/org.litepal.android/core/1.5.0/1035adf3c2a2e779b43348a17cccb3f04dcc6371/core-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

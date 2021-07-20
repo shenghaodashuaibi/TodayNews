@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chaychan:MultipleItemRvAdapter:1.0.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/MultipleItemRvAdapter-1.0.4.aar/39fbf1061a38ff134eb7dd40c1611e62/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/Gradle/caches/transforms-1/files-1.1/MultipleItemRvAdapter-1.0.4.aar/39fbf1061a38ff134eb7dd40c1611e62/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-1/files-1.1/MultipleItemRvAdapter-1.0.4.aar/39fbf1061a38ff134eb7dd40c1611e62/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -6,6 +6,9 @@ import android.os.Bundle;
 
 import com.shenghao.todaynews.R;
 
+/**
+ * 闪屏页
+ */
 public class SplashActivity extends AppCompatActivity {
 
     @Override
